@@ -9,21 +9,6 @@ def map_to_negativize(source_array)
   fnl_array
 end
 
-
-def map_to_negative(source_array)
-  source_array.map { |source_array| * -1 }
-end
-
-
-
-
-
-
-
-
-
-
-
 def map_to_no_change(source_array)
   fnl_array = []
   i = 0
