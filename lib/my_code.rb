@@ -9,6 +9,20 @@ def map_to_negativize(source_array)
   fnl_array
 end
 
+
+def map_to_negative(source_array)
+  
+
+
+
+
+
+
+
+
+
+
+
 def map_to_no_change(source_array)
   fnl_array = []
   i = 0
